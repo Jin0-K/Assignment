@@ -1,0 +1,40 @@
+﻿h1 {
+    font-family:"Comic Sans MS", serif;
+    color: azure;
+    background-color: rgb(225,150,170);
+    margin:0px;
+    border-style:solid;
+    border-width:30px;
+    border-color:rgb(220,130,150);
+    padding: 15px;
+    text-align: center;
+}
+
+.Subtitle {
+    font-family:"Georgia", serif;
+    font-size:24px;
+    font-weight:600;
+}
+
+a:link {
+    color:blue;
+}
+a:visited {
+    color:blueviolet;
+}
+
+#Links {
+    background-color: rgb(190, 190, 225);
+    width: 10%;
+    padding: 2.5%;
+    margin: 0px;
+    float: left;
+}
+
+#Contents {
+    background-color: rgb(220, 220, 255);
+    width: 80%;
+    padding: 2.5%;
+    margin: 0px;
+    float: right;
+}
